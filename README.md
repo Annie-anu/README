@@ -1,7 +1,7 @@
 #  Linked in
 
 
-![Image Link](pic.jpg)
+![Image Link](https://github.com/Annie-anu/README/blob/main/pic.jpg)
 
 
 ### _LinkedIn is a professional networking platform that allows individuals to connect with colleagues, professionals in their industry, and potential employers. It offers various features and functionalities to help users build their professional network, showcase their skills and experience, and explore job opportunities._
